@@ -1,2 +1,2 @@
-# Game-Events
+# Game Events
 SKSE Plugin for Skyrim
